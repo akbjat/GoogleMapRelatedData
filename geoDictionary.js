@@ -1,4 +1,4 @@
-var geocodeDictionary = [{
+var geocodeDictionary = {
   "NH|Portsmouth|00210": {
     "lat": "43.005895",
     "long": "-71.013202"
@@ -172763,4 +172763,4 @@ var geocodeDictionary = [{
     "lat": "55.875767",
     "long": "-131.46633"
   }
-];
+};
