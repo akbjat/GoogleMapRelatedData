@@ -1,4 +1,4 @@
-var geocodeDicionary = [{
+var geocodeDictionary = [{
   "NH|Portsmouth|00210": {
     "lat": "43.005895",
     "long": "-71.013202"
@@ -172728,8 +172728,7 @@ var geocodeDicionary = [{
     "long": "-132.55624"
   },
   "AK|Craig|99921": {
-    "lat": "55.456449",
-    "long": "-133.02648"
+   
   },
   "AK|Hydaburg|99922": {
     "lat": "55.209339",
@@ -172761,6 +172760,7 @@ var geocodeDicionary = [{
   },
   "AK|Ketchikan|99950": {
     "lat": "55.875767",
-    "long": "-131.46633"
+   "lat": "55.456449",
+    "long": "-133.02648"  "long": "-131.46633"
   }
 }];
