@@ -1,4 +1,4 @@
-[
+var userDataToPlot = [
   {
     "addressLine1": "aaaaaaaaa",
     "addressLine2": "bbbbbbbbb",
@@ -38149,4 +38149,4 @@
     "city": "North Richland Hills",
     "state": "TX"
   }
-]
+];
